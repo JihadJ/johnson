@@ -10,7 +10,7 @@
         alert("You will be a " + job + " in " + location + ", and married to " + nameSpouse + " with " + numKids + " kids.");
   }
       tellFortune("Programmer", "Austin", "Liz", 2);
-      tellFortune("Game designer", "Japan", "Nobody", 5);
+      tellFortune("Game designer", "Japan", "Carolyn", 5);
       tellFortune("Poet", "Sweden", Riveria", 3);
     </script>
   </head>
