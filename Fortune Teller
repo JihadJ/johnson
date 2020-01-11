@@ -2,8 +2,7 @@
 <html>
   <head>
     <script>
-      var numKids;
-      var job;
+      var numKids;  var job;
       var nameSpouse;
       var location;
       function tellFortune(job, location, nameSpouse, numKids) {
